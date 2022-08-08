@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/subhanjan-cx/Learning/golang-rest-boilerplate'
+go mod tidy
+go mod vendor
+make: Leaving directory '/home/subhanjan-cx/Learning/golang-rest-boilerplate'
+ 
