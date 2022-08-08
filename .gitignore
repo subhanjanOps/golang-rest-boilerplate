@@ -72,4 +72,5 @@ $RECYCLE.BIN/
 # Environmental files
 .env
 # End of https://www.toptal.com/developers/gitignore/api/go,linux,windows
-vendor
+vendor/
+.vscode/
